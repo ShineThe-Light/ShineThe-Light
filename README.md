@@ -1,5 +1,9 @@
-## Hi there 👋
+### Hi there 👋 My name is CJ, welcome to my github profile
 
+## About me
+-Currently a Computer Science student at the University of Texas Rio Grande Valley, pursuing a Bachelor's degree.
+
+## Contact Info 
 <!--
 **ShineThe-Light/ShineThe-Light** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
